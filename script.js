@@ -17,4 +17,6 @@ function fibonacci(num) {
     return result;
   }
 }
+let result=function();
+console.log(reuslt)
 
